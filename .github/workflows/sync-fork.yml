@@ -16,8 +16,8 @@ jobs:
 
     - name: Fetch Upstream
       run: |
-        git config user.name 'Your Name'
-        git config user.email 'your-email@example.com'
+        git config user.name 'Zhehan-Z (Bot)'
+        git config user.email 'github@zhehanz.com'
         git fetch upstream
         git checkout main
 

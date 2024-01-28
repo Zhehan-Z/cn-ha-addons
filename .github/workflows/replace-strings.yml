@@ -1,0 +1,14 @@
+name: Replace Strings
+
+on: [push]
+
+jobs:
+  replace-text:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Replace Strings
+        run: |
+          find . -type f -not -path '*/\.*' -exec sed -i 's/ghcr.io/ghcr.nju.edu.cn/g' {} +

@@ -1,6 +1,16 @@
 name: Replace Strings
 
-on: [push]
+on:
+  push:
+    branches:
+      - master # or any branches you want to trigger on push
+  workflow_run:
+    workflows: ["Upstream Sync"]
+    types:
+      - completed
+    branches:
+      - master # specify branches, if you want to limit when workflow_run is triggered
+
 
 jobs:
   replace-text:

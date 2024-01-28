@@ -1,0 +1,31 @@
+name: Sync Fork with Upstream
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Fork
+      uses: actions/checkout@v2
+      with:
+        ref: main
+
+    - name: Fetch Upstream
+      run: |
+        git config user.name 'Your Name'
+        git config user.email 'your-email@example.com'
+        git fetch upstream
+        git checkout main
+
+    - name: Merge Upstream Changes
+      run: |
+        git merge upstream/main
+        git push
+
+env:
+  upstream_repo: 'https://github.com/hassio-addons/repository.git'
+  fork_repo: 'https://github.com/zhehan-z/cn-ha-addons.git'

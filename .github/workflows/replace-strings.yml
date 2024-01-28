@@ -9,6 +9,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Replace Strings
+      - name: Replace Strings in Files
         run: |
           find . -type f -not -path '*/\.*' -exec sed -i 's/ghcr.io/ghcr.nju.edu.cn/g' {} +
+          find . -type f -not -path '*/\.*' -exec sed -i 's/GitHub.com/hub.nuaa.cf/g' {} +
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Zhehan-Z (Bot)'
+          git config --global user.email 'github@zhehanz.com'
+          git commit -am "Replace URLs in files" || echo "No changes to commit"
+          git push

@@ -20,11 +20,11 @@ jobs:
         git config user.name 'Zhehan-Z (Bot)'
         git config user.email 'github@zhehanz.com'
         git fetch upstream
-        git checkout main
+        git checkout master
 
     - name: Merge Upstream Changes
       run: |
-        git merge upstream/main
+        git merge upstream/master
         git push
 
 env:

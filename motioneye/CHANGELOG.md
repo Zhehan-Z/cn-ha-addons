@@ -19,5 +19,5 @@ It is finally here! The add-on wraps the first beta version of the long-awaited 
 - ⬆️ Update alpine_3_17/libwebp to v1.2.4-r2 @renovate ([#429](https://github.com/hassio-addons/addon-motioneye/pull/429))
 - ⬆️ Update alpine_3_17/libwebp-dev to v1.2.4-r2 @renovate ([#430](https://github.com/hassio-addons/addon-motioneye/pull/430))
 - ⬆️ Update alpine_3_17/curl-dev to v8.1.2-r0 @renovate ([#427](https://github.com/hassio-addons/addon-motioneye/pull/427))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15 @renovate ([#426](https://github.com/hassio-addons/addon-motioneye/pull/426))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/base Docker tag to v15 @renovate ([#426](https://github.com/hassio-addons/addon-motioneye/pull/426))
 - ⬆️ Upgrades motionEye to 0.43.1b1 @frenck ([#453](https://github.com/hassio-addons/addon-motioneye/pull/453))

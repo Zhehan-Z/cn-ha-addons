@@ -21,7 +21,7 @@
 - ⬆️ Update bokeh to v3.3.2 @renovate ([#532](https://github.com/hassio-addons/addon-jupyterlab/pull/532))
 - ⬆️ Update nbconvert to v7.12.0 @renovate ([#533](https://github.com/hassio-addons/addon-jupyterlab/pull/533))
 - ⬆️ Update pandas to v2.1.4 @renovate ([#534](https://github.com/hassio-addons/addon-jupyterlab/pull/534))
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#537](https://github.com/hassio-addons/addon-jupyterlab/pull/537))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#537](https://github.com/hassio-addons/addon-jupyterlab/pull/537))
 - ⬆️ Update SQLAlchemy to v2.0.25 @renovate ([#538](https://github.com/hassio-addons/addon-jupyterlab/pull/538))
 - ⬆️ Update mysqlclient to v2.2.1 @renovate ([#535](https://github.com/hassio-addons/addon-jupyterlab/pull/535))
 - ⬆️ Update numpy to v1.26.3 @renovate ([#541](https://github.com/hassio-addons/addon-jupyterlab/pull/541))

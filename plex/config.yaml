@@ -48,4 +48,4 @@ options:
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   claim_code: str
-image: ghcr.io/hassio-addons/plex/{arch}
+image: ghcr.nju.edu.cn/hassio-addons/plex/{arch}

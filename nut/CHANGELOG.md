@@ -10,5 +10,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#337](https://github.com/hassio-addons/addon-nut/pull/337))
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#338](https://github.com/hassio-addons/addon-nut/pull/338))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#337](https://github.com/hassio-addons/addon-nut/pull/337))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#338](https://github.com/hassio-addons/addon-nut/pull/338))

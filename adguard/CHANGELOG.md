@@ -6,5 +6,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.2 @renovate ([#484](https://github.com/hassio-addons/addon-adguard-home/pull/484))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 @renovate ([#485](https://github.com/hassio-addons/addon-adguard-home/pull/485))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/base Docker tag to v15.0.2 @renovate ([#484](https://github.com/hassio-addons/addon-adguard-home/pull/484))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/base Docker tag to v15.0.3 @renovate ([#485](https://github.com/hassio-addons/addon-adguard-home/pull/485))

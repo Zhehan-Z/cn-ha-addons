@@ -19,5 +19,5 @@
 - ⬆️ Update debian_12/openssh to v1:9.2p1-2+deb12u2 @renovate ([#756](https://github.com/hassio-addons/addon-vscode/pull/756))
 - ⬆️ Update esphome to v2023.12.3 @renovate ([#754](https://github.com/hassio-addons/addon-vscode/pull/754))
 - ⬆️ Update esphome to v2023.12.5 @renovate ([#759](https://github.com/hassio-addons/addon-vscode/pull/759))
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#757](https://github.com/hassio-addons/addon-vscode/pull/757))
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#760](https://github.com/hassio-addons/addon-vscode/pull/760))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#757](https://github.com/hassio-addons/addon-vscode/pull/757))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#760](https://github.com/hassio-addons/addon-vscode/pull/760))

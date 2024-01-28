@@ -6,5 +6,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.2 @renovate ([#172](https://github.com/hassio-addons/addon-ftp/pull/172))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 @renovate ([#173](https://github.com/hassio-addons/addon-ftp/pull/173))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/base Docker tag to v15.0.2 @renovate ([#172](https://github.com/hassio-addons/addon-ftp/pull/172))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/base Docker tag to v15.0.3 @renovate ([#173](https://github.com/hassio-addons/addon-ftp/pull/173))

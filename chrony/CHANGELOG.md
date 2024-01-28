@@ -6,5 +6,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.2 @renovate ([#155](https://github.com/hassio-addons/addon-chrony/pull/155))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 @renovate ([#156](https://github.com/hassio-addons/addon-chrony/pull/156))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/base Docker tag to v15.0.2 @renovate ([#155](https://github.com/hassio-addons/addon-chrony/pull/155))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/base Docker tag to v15.0.3 @renovate ([#156](https://github.com/hassio-addons/addon-chrony/pull/156))

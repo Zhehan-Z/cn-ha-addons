@@ -6,5 +6,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#65](https://github.com/hassio-addons/addon-foldingathome/pull/65))
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#66](https://github.com/hassio-addons/addon-foldingathome/pull/66))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#65](https://github.com/hassio-addons/addon-foldingathome/pull/65))
+- ⬆️ Update ghcr.nju.edu.cn/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#66](https://github.com/hassio-addons/addon-foldingathome/pull/66))
